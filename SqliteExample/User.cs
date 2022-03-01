@@ -16,6 +16,7 @@ namespace SqliteExample
         {
             Id = id;
             Name = name;
+            ///Made a chang!
 
         }
     }
